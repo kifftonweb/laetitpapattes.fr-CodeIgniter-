@@ -1,0 +1,12 @@
+{
+    "name": "alexa/third_party",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Alex Kieffer",
+            "email": "alexandrekieffer40@hotmail.fr"
+        }
+    ]
+}
